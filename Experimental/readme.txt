@@ -8,12 +8,12 @@ NO2	pptv	chemiluminescence analyzer (Thermo Environmental Instruments Inc. 42C-T
 O3	ppbv	ozone monitor (Thermo 49i)	1.7 ppbv	
 				
 Aerosol loading	unit	instrument	range	resolution
-TSP	mg/m3	nephelometer (Thermo Scientific)	0.1 Ð 10 µm	1 µg/m3
+TSP	mg/m3	nephelometer (Thermo Scientific)	0.1 - 10 Âµm	1 Âµg/m3
 				
 Meteological parameters	unit	note		
 WS	m/s	wind speed		
-WD	¡	wind direction		
-Air T	¡C	air temperature		
+WD	Ëš	wind direction		
+Air T	ËšC	air temperature		
 RH	%	relative humidity		
 				
 Photolysis rate constants 	unit	reaction		
