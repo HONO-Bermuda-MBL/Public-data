@@ -10,7 +10,7 @@ O3	ppbv	ozone monitor (Thermo 49i)	1.7 ppbv
 Aerosol loading	unit	instrument	range	resolution
 TSP	mg/m3	nephelometer (Thermo Scientific)	0.1 - 10 µm	1 µg/m3
 				
-Meteological parameters	unit	note		
+Meterological parameters	unit	note		
 WS	m/s	wind speed		
 WD	˚	wind direction		
 Air T	˚C	air temperature		
